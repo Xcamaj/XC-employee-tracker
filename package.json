@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "mysql2": "^2.3.3"
+  },
+  "name": "xc-employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xcamaj/XC-employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xcamaj/XC-employee-tracker/issues"
+  },
+  "homepage": "https://github.com/Xcamaj/XC-employee-tracker#readme"
+}
